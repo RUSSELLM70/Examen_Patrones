@@ -24,7 +24,7 @@ public class Analytics {
 		return masLarga(palabra);
 	}
 	
-	/*
+	
 	//Punto C Palabras largas ordenadas alfabeticamente
 	
 	private String PalabrasLargasAlfabetics(String[] Palabras) {
@@ -40,6 +40,7 @@ public class Analytics {
 	}
 	
 	
+	/*
 	
 	//Punto D Palabras cortas ordenadas alfabeticamente
 	
