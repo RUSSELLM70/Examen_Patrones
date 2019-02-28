@@ -14,7 +14,7 @@ public class Analytics {
 	}
 	
 	//Punto B palabra corta
-/*	public Object ValoresPalabraCorta(String palabraCorta) {
+	public Object ValoresPalabraCorta(String palabraCorta) {
 		if (palabraCorta.isEmpty()) {
 			return 0;
 		}
@@ -24,6 +24,7 @@ public class Analytics {
 		return masLarga(palabra);
 	}
 	
+	/*
 	//Punto C Palabras largas ordenadas alfabeticamente
 	
 	private String PalabrasLargasAlfabetics(String[] Palabras) {
@@ -77,7 +78,7 @@ public class Analytics {
 		return separador;
 	}
 
-	/*
+	
 	// Generador palabras
 	private String masLarga(String[] Palabras) {
 		String palabraLarga = "";
@@ -97,9 +98,9 @@ public class Analytics {
 		return palabraLarga;
 	}
 
-	*/
 	
-	/*
+	
+	
 	private String masCorta(String[] Palabras) {
 
 		String palabraCorta = "";
@@ -115,5 +116,5 @@ public class Analytics {
 
 		return palabraCorta;
 	}
-*/
+
 }
