@@ -40,7 +40,7 @@ public class Analytics {
 	}
 	
 	
-	/*
+	
 	
 	//Punto D Palabras cortas ordenadas alfabeticamente
 	
@@ -61,7 +61,7 @@ public class Analytics {
 		return palabraCorta;
 	}
 	
-	*/
+	
 
 	// Separador de palabras
 	private String[] SeparadorPalabras(String string) {
